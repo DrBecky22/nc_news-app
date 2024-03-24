@@ -1,0 +1,23 @@
+{
+  "name": "nc_news-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrBecky22/nc_news-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrBecky22/nc_news-app/issues"
+  },
+  "homepage": "https://github.com/DrBecky22/nc_news-app#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
